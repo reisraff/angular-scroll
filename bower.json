@@ -1,0 +1,8 @@
+{
+    "name": "angular-scroll",
+    "version": "1.0.0",
+    "main": "./dist/angular-scroll.min.js",
+    "dependencies": {
+        "angular": "~1"
+    }
+}
